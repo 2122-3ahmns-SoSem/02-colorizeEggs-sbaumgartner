@@ -4,7 +4,8 @@ Projectdescription: Todo
 
 WebGL build: https://2122-3ahmns-sosem.github.io/colorizeEggs-Template/
 
-Developmentplatform: Todo
+Development Platform: Unity Version 2020.3.18f1, Visual Studio Community 2019, macOS Monterey Version 12.3.1
+Target Platform: WebGL Auflösung: 1280x720
 
 
 Logik: Der Spieler sieht im linken Bereich vier Bestellungen von Eiern.
